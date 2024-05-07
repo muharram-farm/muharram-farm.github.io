@@ -1,6 +1,6 @@
-## WEB PAGE muharram-farm.github.io[muharram-farm.github.io]
+## WEB PAGE
 
-Misol http://farez.uz/
+Misol http://muharram-farm.github.io
 
 Biz Haqimizda
 MUHARRAM FARM TRADE sifatli ingrediyentlardan foydalangan holda turli loyihalarni amalga oshiruvchi amaliy uslubga ega kompaniya sifatida ajralib turadi. Kompaniya o’z faolitaini boshlagandan buyon biz mijozlarimiz talablariga muvofiq ularning ehtiyojlarini qondirish va mahsulotlarda innovatsiyion yondoshuv imkoniyatlarini oshirishni maqsadida o’z jamoamizni kengaytirmoqdamiz.
