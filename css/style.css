@@ -1766,7 +1766,7 @@ input[type="radio"] .styled:checked+label::after {
 }
 
 .about .titlepage span {
-	color: # 3d3c3c;
+	color: #3d3c3c;
 	font-size: 17px;
 	line-height: 30px;
 }
@@ -1811,7 +1811,7 @@ input[type="radio"] .styled:checked+label::after {
 }
 
 .service .titlepage span {
-	color: # 3d3c3c
+	color: #3d3c3c
 }
 
 .service .service-box figure {
@@ -1955,7 +1955,7 @@ img.zoom {
 }
 
 .download .titlepage span {
-	color: # 3d3c3c
+	color: #3d3c3c
 }
 
 .download .titlepage h2 {
@@ -2166,6 +2166,19 @@ img.zoom {
 	flex-wrap: wrap;
 }
 
+.sendy {
+	font-size: 12px;
+	/* border: #000 solid 1px; */
+	/* padding: 10px 50px;
+	background-color: #fff; */
+	color: #fff;
+	display: flex;
+	justify-content: center;
+	margin: 0 auto;
+	align-items: center;
+	flex-wrap: wrap;
+}
+
 .send a {
 	font-size: 16px;
 	border: #000 solid 1px;
@@ -2179,7 +2192,26 @@ img.zoom {
 	flex-wrap: wrap;
 }
 
+.sendy a {
+	font-size: 16px;
+	border: #000 solid 1px;
+	padding: 10px 50px;
+	background-color: #000;
+	color: #fff;
+	display: flex;
+	justify-content: center;
+	margin: 0 auto;
+	align-items: center;
+	flex-wrap: wrap;
+}
+
 .send:hover a {
+	background-color: #0fc690;
+	border: #0fc690 solid 1px;
+	color: #fff;
+}
+
+.sendy:hover a {
 	background-color: #0fc690;
 	border: #0fc690 solid 1px;
 	color: #fff;
