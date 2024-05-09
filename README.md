@@ -11,22 +11,29 @@ Figma fayl https://drive.google.com/file/d/1XrURMh4wSfFBF2a6iI19eGKKD0U9nyuO/vie
 
 ------- 
 
-## ABDURAXIM AKA, [20.04.2024 19:14]
-
 ## telefon: +998 97 8683767
 
 ## email: muharram-farm@gmail.com
 
 ## manzil: Buxoro viloyati, Buxoro tumani, Shexoncha MFY, Dehchabegim 64-uy
 
-## sayt: www.muharram-farm.uz
+## sayt: https://www.muharram-farm.uz
 
 ------- 
 
 ## gmail: 
 
-```farmmuharram@gmail.com```
+1-gmail: ```farmmuharram@gmail.com```
+password: ```farm666666```
 
-## password: 
+2- gmail: ```muharramfarmtrade@gmail.com```
+password: ```muharramfarm411```
 
-```farm666666```
+github: ```farmmuharram@gmail.com```
+password: ```r3x4S4898BPczGB```
+Username*: ```muharram-farm```
+
+## mega
+
+gmail: ```muharramfarmtrade@gmail.com```
+password: ```muharramfarm411```
