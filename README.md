@@ -1,6 +1,6 @@
 ## WEB PAGE
 
-Misol http://muharram-farm.github.io
+Sayt: https://www.muharram-farm.github.io
 
 Biz Haqimizda
 MUHARRAM FARM TRADE sifatli ingrediyentlardan foydalangan holda turli loyihalarni amalga oshiruvchi amaliy uslubga ega kompaniya sifatida ajralib turadi. Kompaniya o’z faolitaini boshlagandan buyon biz mijozlarimiz talablariga muvofiq ularning ehtiyojlarini qondirish va mahsulotlarda innovatsiyion yondoshuv imkoniyatlarini oshirishni maqsadida o’z jamoamizni kengaytirmoqdamiz.
@@ -13,11 +13,7 @@ Figma fayl https://drive.google.com/file/d/1XrURMh4wSfFBF2a6iI19eGKKD0U9nyuO/vie
 
 ## telefon: +998 97 8683767
 
-## email: muharram-farm@gmail.com
-
 ## manzil: Buxoro viloyati, Buxoro tumani, Shexoncha MFY, Dehchabegim 64-uy
-
-## sayt: https://www.muharram-farm.uz
 
 ------- 
 
